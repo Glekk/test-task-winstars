@@ -46,7 +46,7 @@ git clone https://github.com/Glekk/test-task-winstars.git
 ```
 2. Navigate to the desired directory
 ```
-cd test-task-winstars/Task1
+cd test-task-winstars/Task2
 ```
 3. Install the requirements
 ```
